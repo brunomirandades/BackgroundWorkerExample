@@ -1,4 +1,4 @@
-##BackgroundWorker Example
+# BackgroundWorker Example
 
 This is an example implementation of the backgroundWorker feature presented in the .NET framework. This feature makes it easy to deal with threading in this enviroment, which is very important in applications which require multiple heavy processing tasks.
 
